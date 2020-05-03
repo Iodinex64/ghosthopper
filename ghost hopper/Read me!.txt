@@ -1,0 +1,8 @@
+Thank you for deciding to play my little game, Ghost Hopper!
+
+CONTROLS:
+
+G to jump;
+A to move left;
+D to move right;
+R to reset.
